@@ -3,8 +3,7 @@
 # Parcel
 - Dev Build
 - Local Server
-- HMR [Hot Module Replacement] - (Reload)
-  File watching Algo (Written in C++)
+- HMR [Hot Module Replacement] - (Reload) -> File watching Algo (Written in C++)
 - Caching (Faster Build)
 - Image optimization
 - Minification
@@ -13,7 +12,7 @@
 - Consistent Hashing
 - Code Splitting
 - Differential Bundling (App can be installed inside older version of browsers and support different versions)
-- Error Handling (Diagnostic)
+- Error Handling (Diagnostic) [Better Error Screen view so it can be easily understood & solved by programmer]
 - Https
 - Tree Shaking (Remove Unused Code)
 - Different build for dev & prod

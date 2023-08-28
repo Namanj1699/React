@@ -1,0 +1,22 @@
+* What is Emmet : Emmet is a free add-on for code editor, By using "emmet" developer type less and
+saves there time.
+
+* Diff bw Library and Framework : A framework is a framework which comes with a lot of thing and 
+library is something which works independently in a small portion of app.
+
+* What is CDN ? Why do we use it : CDN stands for "content delievery network". It is a wiser choice when
+you are just starting with react or have a pre-built website and need to include react component. 
+as we know CDN are handy and need minimal setup. they help you to get your work started in fewer 
+line of code.
+
+* What is cross origin in the "script" tag : Cross origin CORS (Cross origin resource sharing) sets the
+mode of the request to an HTTP CORS Request, web pages often make request to load resources on other 
+servers here is where CORS come in. A cross origin request is a request for a resource
+[Eg. Stylesheet, Image, Fonts and Scripts] from another domain.
+
+* Diff bw React and React-DOM : React is a JavaScript library for building User Interfaces and 
+ReactDOM is the JavaScript library that allows React to interact with the DOM.
+
+* What are async and defer : Async allows your script to run as soon as it's loaded, 
+without blocking other elements on the page. Defer means your script will only execute after the 
+page has finished loading.
