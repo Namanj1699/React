@@ -1,0 +1,41 @@
+* What is NPM : NPM is a package manager for JavaScript.
+
+* What is Parcel/Webpack ? Why do we need it : Parcel/Webpack is a bundler in react that allows
+  developers to package their code into a single file or bundle. 
+
+* What is .parcel-cache : stores information about your project when parcel builds it.
+
+* What is NPX : NPX is used for executing a package which is installed by NPM.
+        For Ex- npx parcel "file_name" for create dev-build.
+
+* Diff bw Dependencies and Dev-Dependencies : Dependencies is something when we create some basic project
+  then the resources which we are going to use in our project is installed in the form of dependencies
+  which have their different versions, whereas dev dependencies is same as dependencies in addition
+  it requires in the development phase.
+
+* What is Tree-Shaking - Functionality of Parcel which have the capability to remove unused code in
+  react project.
+
+* What is HMR (Hot-Module Replacement) : Hot Module Replacement (HMR) allows your web components
+  to be updated as you develop, without needing a full refresh of the browser. The Open Web Components 
+  project maintains a number of tools and libraries for working with Web Components, including a plugin
+  for enabling HMR with FAST Web Components. (By Google.com)
+
+* SuperPowers of Parcel - Tree Shaking , Hot Module Replacement , Different build for dev and prod,
+  Caching , Image Optimization, Local Server , Minification ,Bundles (M.IMP)
+
+  Caching : Create Fast Build
+
+* What is .gitignore : when we don't want to push our folder into git then we add the particular folder
+  in .gitignore file or we can say if there is something which we can recreate then we should add that
+  on .gitignore file.
+
+* Difference bw package.jSON and package-lock.JSON : package.json is the configuration of NPM
+  and tells what package version is install in our system on the other hand package-lock.json keeps
+  exact record of version installed in our system.
+
+* Can i Push Node-modules in git : No, because it can recreate.
+
+* What is Dist Folder : dist/ The /dist stands for distributable. The /dist folder contains the 
+  minimized version of the source code. The code present in the /dist folder is actually 
+  the code which is used on production web applications
