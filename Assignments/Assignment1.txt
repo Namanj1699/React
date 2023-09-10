@@ -19,4 +19,4 @@ ReactDOM is the JavaScript library that allows React to interact with the DOM.
 
 * What are async and defer : Async allows your script to run as soon as it's loaded, 
 without blocking other elements on the page. Defer means your script will only execute after the 
-page has finished loading. [For Better Clarity - Assignments -> Assignment1_6.jpeg ]
+page has finished loading. [For Better Clarity -> Assignments -> Assignment1_6.jpeg ]
